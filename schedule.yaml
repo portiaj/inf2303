@@ -1,4 +1,3 @@
-
 - week : 1        
   classes :
   
@@ -375,9 +374,21 @@
 
   classes :  
     - date : Monday, August 12
-      no_class : Yuri at ASA in New York
-  
-    - date : Wednesday, August 14
+      title: Hackerspaces
+      summary : |
+      In this class we will be looking at the phenomenon of hackerspaces in Canada and abroad.
+      readings :
+      - bib : |
+          Moilanen, Jarkko (2012).
+          “Emerging Hackerspaces – Peer-Production Generation.” Open Source Systems: Long-Term Sustainability. Eds I. Hammouda et al. (Eds.). Springer: Heidelberg, 	2012.pp. 94–111.
+      - bib : |
+          Li, David and Lindtner, Silvia (2012).
+          “Created in China: The Makings of China’s Hackerspace Community.” Interactions. Volume 19, Issue 6.  pp. 18-22.
+      - bib : |
+          Abram, Stephen (2013). 
+          “Makerspaces in Libraries, Education, and Beyond.” Internet@Schools. 	Volume 20, Issue 2. pp. 18-20.
+    
+      - date : Wednesday, August 14
       title : Adoption Case Studies
       summary : |        
         In this class we'll be looking at a few specific cases of FOSS adoption.
